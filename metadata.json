@@ -1,0 +1,7 @@
+{
+  "name": "FinGlobal - Gestão Financeira Multi-Moedas",
+  "description": "Aplicativo de gestão financeira com suporte a múltiplas moedas, gráficos analíticos interativos e mapa de despesas geolocalizadas.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
